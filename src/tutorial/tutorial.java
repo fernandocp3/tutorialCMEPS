@@ -1,10 +1,14 @@
 package tutorial;
 
+import java.util.Iterator;
+
 public class tutorial {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello world");
+		for (int i = 0; i < 10; i++) {
+			System.out.println("Hello world");
+		}
 	}
 
 }
